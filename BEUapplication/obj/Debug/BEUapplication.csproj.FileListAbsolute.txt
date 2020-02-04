@@ -1,0 +1,5 @@
+C:\xampp\htdocs\beuwebsite\BEUapplication\BEUapplication\BEUapplication\obj\Debug\ResolveAssemblyReference.cache
+C:\xampp\htdocs\beuwebsite\BEUapplication\BEUapplication\BEUapplication\bin\BEUapplication.dll
+C:\xampp\htdocs\beuwebsite\BEUapplication\BEUapplication\BEUapplication\bin\BEUapplication.pdb
+C:\xampp\htdocs\beuwebsite\BEUapplication\BEUapplication\BEUapplication\obj\Debug\BEUapplication.dll
+C:\xampp\htdocs\beuwebsite\BEUapplication\BEUapplication\BEUapplication\obj\Debug\BEUapplication.pdb
